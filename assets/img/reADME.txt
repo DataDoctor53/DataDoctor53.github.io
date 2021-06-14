@@ -1,0 +1,1 @@
+add bg.jpg photo
